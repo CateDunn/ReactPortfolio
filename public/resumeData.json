@@ -1,27 +1,23 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Cate Dunn",
+    "occupation":"web developer",
+    "description":"I have a passion for creating custom web apps using innovation, imagination and creativity. I have a personal goal to always continue learning",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I graduated from UNC Chapel Hill in 2016 with a Bachelor's degree in psychology. After working in the Human Resources realm for almost three years, I decided to take my career in a completely different direction to follow my aspiration of becoming a web developer. I hope to become a full stack developer after completion of UNC coding Bootcamp in August of 2020. Feel free to take a look around my portfolio and explore my projects. You can contact me using the contact page or at the email below. Enjoy!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "catedunn@alumni.unc.edu",
+    "phone": "704-754-7848",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"4301 Manor Field Way",
+      "city":"Raleigh",
+      "state":"NC",
+      "zip": "27612"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
+      
       {
         "name":"twitter",
         "url":"http://twitter.com",
@@ -34,17 +30,12 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/cate-dunn-23914a19b/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/CateDunn",
         "className":"fa fa-github"
       },
       {
@@ -58,16 +49,22 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"UNC Coding Bootcamp",
+        "degree":"Full Stack Development",
+        "graduated":"August 2020",
+        "description":"A rigorous 24 week course that develops the skills needed to build dynamic web applications and gain proficiency in the theory of and application of web development."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Cornell",
+        "degree":"Human Resources Essentials Certification",
+        "graduated":"January 2018",
+        "description":""
+      },
+      {
+        "school":"UNC Chapel Hill",
+        "degree":"Psychology",
+        "graduated":"May 2016",
+        "description":"BA in Psychology, minor in History."
       }
     ],
     "work":[
