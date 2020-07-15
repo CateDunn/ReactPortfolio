@@ -8,6 +8,9 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Portfolio from './Components/Portfolio';
+import { BrowserRouter as Router, Route } from "react-router-dom";
+// var Router = require("react-router").Router;
+// var Route = require("react-router").Route;
 
 class App extends Component {
 
@@ -44,7 +47,9 @@ class App extends Component {
 
   render() {
     return (
+      <Router>
       <div className="App">
+        <Route exact path="/" />
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
@@ -52,6 +57,7 @@ class App extends Component {
         <Contact data={this.state.resumeData.main}/>
         <Footer data={this.state.resumeData.main}/>
       </div>
+      </Router>
     );
   }
 }
