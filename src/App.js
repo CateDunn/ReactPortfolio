@@ -49,7 +49,7 @@ class App extends Component {
     return (
       <Router>
       <div className="App">
-        <Route exact path="/" />
+        <Route exact path="/" component={Header} />
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
