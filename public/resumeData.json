@@ -5,7 +5,7 @@
     "description":"I have a passion for creating custom web apps using innovation, imagination and creativity. I have a personal goal to always continue learning",
     "image":"profilepic.jpg",
     "bio":"I graduated from UNC Chapel Hill in 2016 with a Bachelor's degree in psychology. After working in the Human Resources realm for almost three years, I decided to take my career in a completely different direction to follow my aspiration of becoming a web developer. I hope to become a full stack developer after completion of UNC coding Bootcamp in August of 2020. Feel free to take a look around my portfolio and explore my projects. You can contact me using the contact page or at the email below. Enjoy!",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Contact Me!",
     "email": "catedunn@alumni.unc.edu",
     "phone": "704-754-7848",
     "address":{
@@ -15,14 +15,9 @@
       "zip": "27612"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"Cate-Dunn-Resume.pdf",
     "social":[
       
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
       {
         "name":"google-plus",
         "url":"http://googleplus.com/tbakerx",
@@ -46,7 +41,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"UNC Coding Bootcamp",
@@ -69,26 +64,26 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"UNC Coding Bootcamp",
+        "title":"Full Stack Developer ",
+        "years":"Feb 2020 - Present",
+        "description":"Completed solo work as well as collaborated in groups to learn & design web apps."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"ProVantage Corporate Solutions",
+        "title":"Payroll Specialist",
+        "years":"Mar 2018 - Jan 2020",
+        "description":"Performed all payroll daily tasks for over 700 employees biweekly."
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"90%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Javascript",
+        "level":"75%"
       },
       {
         "name":"ReactJs",
@@ -100,15 +95,15 @@
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"90%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Node",
+        "level":"80%"
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"50%"
       }
     ]
   },
