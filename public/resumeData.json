@@ -2,14 +2,13 @@
   "main": {
     "name":"Cate Dunn",
     "occupation":"web developer",
-    "description":"I have a passion for creating custom web apps using innovation, imagination and creativity. I have a personal goal to always continue learning",
+    "description":"I have a passion for creating custom web apps using innovation, imagination and creativity. With each project, my aim is to best engage my audience for an impactful user experience.",
     "image":"profilepic.jpg",
-    "bio":"I graduated from UNC Chapel Hill in 2016 with a Bachelor's degree in psychology. After working in the Human Resources realm for almost three years, I decided to take my career in a completely different direction to follow my aspiration of becoming a web developer. I hope to become a front end developer after completion of UNC coding Bootcamp in August of 2020. Feel free to take a look around my portfolio and explore my projects. You can contact me using the contact page or at the email below. Enjoy!",
+    "bio":"Front-end web developer leveraging a psychology background to build a more intuitive user experience on the web. Recently earned a certificate in full stack development from UNC - Chapel Hill, with newly developed skills in JavaScript, CSS, React.js, and responsive web design. Known as an innovative problem solver, passionate about developing apps, with a focus on mobile-first design and development. I’m excited to leverage my skills as part of a fast-paced, quality-driven team to build better experiences on the web.",
     "contactmessage":"Contact Me!",
     "email": "catedunn@alumni.unc.edu",
     "phone": "704-754-7848",
     "address":{
-      "street":"4301 Manor Field Way",
       "city":"Raleigh",
       "state":"NC",
       "zip": "27612"
@@ -17,12 +16,6 @@
     "website": "http://www.timbakerdev.com",
     "resumedownload":"Cate Dunn Resume 2020.pdf",
     "social":[
-      
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/cate-dunn-23914a19b/",
@@ -32,11 +25,6 @@
         "name":"github",
         "url":"https://github.com/CateDunn",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
