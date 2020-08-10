@@ -98,28 +98,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Book Club App",
-        "category":"Check out the lastest reads!",
-        "image":"book-club.png",
+        "title":"Book Club",
+        "category":"Join or create an online bookclub. Browse the latest top books.",
+        "image":"Book-Club.jpg",
         "url":"https://book-club-application.herokuapp.com/"
       },
       {
-        "title":"Covid Tracker",
-        "category":"React based covid tracker coming soon",
-        "image":"covid-tracker.jpg",
+        "title":"Covid-19 Tracker",
+        "category":"Create a profile and  use a symptom checker and map to find out information related to Covid-19.",
+        "image":"Covid.jpg",
         "url":"https://covid19-tracker-applicaiton.herokuapp.com/"
       },
       {
         "title":"Dine-In/Dine-Out",
-        "category":"Gives restaurant or recipe options",
-        "image":"dine-in-dine-out.png",
+        "category":"Choose from a list of local restaurants or stay in and cook using recipe suggestions.",
+        "image":"Dinner.jpg",
         "url":"https://github.com/jvernot/wineAndDine"
-      },
-      {
-        "title":"Note Taker",
-        "category":"Note Taking App",
-        "image":"note-taker.png",
-        "url":"https://frozen-escarpment-33568.herokuapp.com/"
       }
     ]
   }
