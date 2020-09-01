@@ -107,7 +107,7 @@
         "title":"Covid-19 Tracker",
         "category":"Create a profile and  use a symptom checker and map to find out information related to Covid-19.",
         "image":"Covid.jpg",
-        "url":"https://covid19-tracker-applicaiton.herokuapp.com/"
+        "url":"https://covid19-symptom-tracker-app.herokuapp.com/"
       },
       {
         "title":"Dine-In/Dine-Out",
